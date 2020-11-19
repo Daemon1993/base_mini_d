@@ -1,6 +1,6 @@
 // pages/component/tabs/Tabs.js
 
-var common=require('../../common/common.js')
+var common=require('../../../utils/common')
 
 Component({
   /**
